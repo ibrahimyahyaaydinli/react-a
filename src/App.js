@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Merhaba
+          Merhaba Dünya
         </a>
       </header>
     </div>
